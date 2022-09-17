@@ -1,0 +1,16 @@
+C:\Users\Agamuradov\source\repos\ClassMethodDemo\ClassMethodDemo\bin\Debug\net5.0\ClassMethodDemo.exe
+C:\Users\Agamuradov\source\repos\ClassMethodDemo\ClassMethodDemo\bin\Debug\net5.0\ClassMethodDemo.deps.json
+C:\Users\Agamuradov\source\repos\ClassMethodDemo\ClassMethodDemo\bin\Debug\net5.0\ClassMethodDemo.runtimeconfig.json
+C:\Users\Agamuradov\source\repos\ClassMethodDemo\ClassMethodDemo\bin\Debug\net5.0\ClassMethodDemo.runtimeconfig.dev.json
+C:\Users\Agamuradov\source\repos\ClassMethodDemo\ClassMethodDemo\bin\Debug\net5.0\ClassMethodDemo.dll
+C:\Users\Agamuradov\source\repos\ClassMethodDemo\ClassMethodDemo\bin\Debug\net5.0\ClassMethodDemo.pdb
+C:\Users\Agamuradov\source\repos\ClassMethodDemo\ClassMethodDemo\obj\Debug\net5.0\ClassMethodDemo.csproj.AssemblyReference.cache
+C:\Users\Agamuradov\source\repos\ClassMethodDemo\ClassMethodDemo\obj\Debug\net5.0\ClassMethodDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agamuradov\source\repos\ClassMethodDemo\ClassMethodDemo\obj\Debug\net5.0\ClassMethodDemo.AssemblyInfoInputs.cache
+C:\Users\Agamuradov\source\repos\ClassMethodDemo\ClassMethodDemo\obj\Debug\net5.0\ClassMethodDemo.AssemblyInfo.cs
+C:\Users\Agamuradov\source\repos\ClassMethodDemo\ClassMethodDemo\obj\Debug\net5.0\ClassMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\Agamuradov\source\repos\ClassMethodDemo\ClassMethodDemo\obj\Debug\net5.0\ClassMethodDemo.dll
+C:\Users\Agamuradov\source\repos\ClassMethodDemo\ClassMethodDemo\obj\Debug\net5.0\refint\ClassMethodDemo.dll
+C:\Users\Agamuradov\source\repos\ClassMethodDemo\ClassMethodDemo\obj\Debug\net5.0\ClassMethodDemo.pdb
+C:\Users\Agamuradov\source\repos\ClassMethodDemo\ClassMethodDemo\obj\Debug\net5.0\ClassMethodDemo.genruntimeconfig.cache
+C:\Users\Agamuradov\source\repos\ClassMethodDemo\ClassMethodDemo\obj\Debug\net5.0\ref\ClassMethodDemo.dll
